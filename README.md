@@ -120,11 +120,11 @@ print(result)  # Output: {1: 10, 2: 20, 3: 30, 4: 40}
 
 ## Features
 
-- ✅ All functions include docstrings with descriptions and examples
-- ✅ Each file includes comprehensive test cases
-- ✅ Clear output formatting for easy verification
-- ✅ Follows Python best practices and conventions
-- ✅ Well-commented and easy to understand
+- All functions include docstrings with descriptions and examples
+- Each file includes comprehensive test cases
+- Clear output formatting for easy verification
+- Follows Python best practices and conventions
+- Well-commented and easy to understand
 
 ## Notes
 
@@ -141,11 +141,12 @@ print(result)  # Output: {1: 10, 2: 20, 3: 30, 4: 40}
 ## Group Members
 
 Add your group member names here:
-- Member 1:
-- Member 2:
-- Member 3:
-- Member 4:
-
+- Member 1: Ibrahim Abdu
+- Member 2: Ayman Abdi
+- Member 3: Abigael Seenoip
+- Member 4: Peace Kuria
+- Member 5: Emmanuel Hongo
+- Member 6: Fredrick Rangara
 ---
 
 **Assignment completed on:** [Add date]
